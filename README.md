@@ -2,7 +2,6 @@
 
 i have develope the huddle landing page
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -17,5 +16,5 @@ Thanks for checking out this front-end coding challenge.
 - The challenge is to develope the responsive website using the html and css only.
 
 ## Here check my solution
-
+https://enchanting-cajeta-988e81.netlify.app
 **Have fun building!** 🚀
